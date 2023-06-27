@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664255610 source:d:\作业\c语言作业\hzr\test3\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1664255610 source:d:\test3\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
