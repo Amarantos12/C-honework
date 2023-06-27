@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666611403 source:d:\作业\c语言作业\实验七\hzr\test3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

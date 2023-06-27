@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666766761 source:d:\hzr8\高级语言实验八\errorstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1666766761 source:d:\hzr8\errorstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
